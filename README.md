@@ -1,35 +1,56 @@
-# IBM ANSI Omarchy Theme
+# IBM ANSI for Omarchy
 
-A dark Omarchy theme inspired by the IBM PC/PS/2 DOS-era CGA/EGA terminal palette.
+**The IBM PC / PS/2 DOS color palette, brought to Omarchy.** Classic CGA/EGA ANSI colors, a pure-black desktop, and six IBM/Omarchy-inspired 4K wallpapers.
+
+<p align="center">
+  <img src="backgrounds/1-ibm-black.jpg" alt="Blue IBM 8-bar wordmark centered on a black background" width="900">
+</p>
 
 ## Install
 
 ```bash
 omarchy theme install https://github.com/keylimesoda/omarchy-ibm-ansi
+omarchy theme set omarchy-ibm-ansi
 ```
 
-Then select the installed theme with `omarchy theme set omarchy-ibm-ansi` (or the name shown by `omarchy theme list`). Use `omarchy theme bg next` to cycle through the included wallpapers.
+Cycle wallpapers with `omarchy theme bg next`. To select one by path, use `omarchy theme bg set <path-to-image>`.
 
-## Palette
+## The 16 ANSI colors
 
-The terminal colors use the classic 16-color IBM-style palette: black background; dark red, green, yellow, blue, magenta, cyan, and gray; their bright variants; and white. The theme also supplies the Omarchy color keys for accents, selections, borders, and foregrounds.
+The chart shows every terminal slot in index order: normal colors `0–7`, then bright colors `8–15`. Hex values are the colors in `colors.toml`.
 
-## Wallpapers
+<p align="center">
+  <img src="palette.png" alt="IBM PC CGA/EGA ANSI palette chart with all 16 indexed colors and their hex values" width="100%">
+</p>
 
-The six backgrounds are 3840×2160 JPEGs:
+| Desktop key | Value |
+| --- | --- |
+| Background | `#000000` |
+| Foreground | `#AAAAAA` |
+| Accent | `#00AA00` |
 
-1. Gray Omarchy wordmark on black
-2. Blue IBM wordmark on black
-3. Blue IBM wordmark on white
-4. IBM-inspired blue stripes on black
-5. Monochrome Eye-Bee-M rebus
-6. Original-color Eye-Bee-M rebus
+## Wallpaper gallery
 
-## Artwork and marks
+All six wallpapers are **3840 × 2160**. Click any image to open the full-resolution version.
 
-- IBM 8-bar wordmark SVG: [Wikimedia Commons, File:IBM logo.svg](https://commons.wikimedia.org/wiki/File:IBM_logo.svg).
-- Monochrome Eye-Bee-M: [IBM Design Language, Rebus](https://www.ibm.com/design/language/ibm-logos/rebus).
-- Original-color Eye-Bee-M artwork: [Wikimedia Commons, File:Eye Bee M Rebus Logo.jpg](https://commons.wikimedia.org/wiki/File:Eye_Bee_M_Rebus_Logo.jpg), credited there to Paul Rand and labeled public domain as a text logo. Wikimedia also notes that the image includes trademarked material.
-- Omarchy wordmark source: [bjarneo/100-themes](https://github.com/bjarneo/100-themes/blob/main/assets/omarchy-wordmark.svg).
+<table>
+  <tr>
+    <td align="center"><a href="backgrounds/0-omarchy-wordmark.jpg"><img src="backgrounds/0-omarchy-wordmark.jpg" alt="Gray Omarchy wordmark on black" width="100%"></a><br><b>Omarchy · theme gray</b></td>
+    <td align="center"><a href="backgrounds/1-ibm-black.jpg"><img src="backgrounds/1-ibm-black.jpg" alt="Complete blue IBM wordmark on black" width="100%"></a><br><b>IBM · black</b></td>
+    <td align="center"><a href="backgrounds/2-ibm-white.jpg"><img src="backgrounds/2-ibm-white.jpg" alt="Complete blue IBM wordmark on white" width="100%"></a><br><b>IBM · white</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="backgrounds/3-ibm-stripes.jpg"><img src="backgrounds/3-ibm-stripes.jpg" alt="Eight blue horizontal stripes on black" width="100%"></a><br><b>Blue stripes</b></td>
+    <td align="center"><a href="backgrounds/4-eye-bee-m-monochrome.jpg"><img src="backgrounds/4-eye-bee-m-monochrome.jpg" alt="Monochrome Eye-Bee-M rebus on black" width="100%"></a><br><b>Eye-Bee-M · monochrome</b></td>
+    <td align="center"><a href="backgrounds/5-eye-bee-m-color.jpg"><img src="backgrounds/5-eye-bee-m-color.jpg" alt="Original-color Eye-Bee-M rebus on black" width="100%"></a><br><b>Eye-Bee-M · original color</b></td>
+  </tr>
+</table>
 
-IBM and Omarchy names and marks belong to their respective owners. This community theme is not affiliated with or endorsed by IBM or Omarchy.
+## Artwork credits
+
+- The IBM 8-bar wordmark is from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IBM_logo.svg).
+- The monochrome Eye-Bee-M artwork is from [IBM Design Language](https://www.ibm.com/design/language/ibm-logos/rebus).
+- The original-color Eye-Bee-M image is from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eye_Bee_M_Rebus_Logo.jpg), which credits Paul Rand and labels it public domain as a text logo. Commons also flags trademark restrictions.
+- The Omarchy wordmark is from [bjarneo/100-themes](https://github.com/bjarneo/100-themes/blob/main/assets/omarchy-wordmark.svg).
+
+IBM and Omarchy names and marks belong to their respective owners. This community theme is not affiliated with or endorsed by IBM or Omarchy; use of the marks may be subject to trademark restrictions.

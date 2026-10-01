@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="700" viewBox="0 0 1800 700">
+  <rect width="1800" height="700" rx="28" fill="#111722"/>
+  <text x="70" y="72" fill="#f1f4f8" font-family="DejaVu Sans, sans-serif" font-size="38" font-weight="700">IBM PC · CGA/EGA ANSI PALETTE</text>
+  <text x="70" y="112" fill="#aab5c5" font-family="DejaVu Sans, sans-serif" font-size="19">The 16 terminal color slots, in ANSI index order</text>
+  <text x="70" y="176" fill="#aab5c5" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" letter-spacing="2">NORMAL · 0–7</text>
+  <text x="70" y="438" fill="#aab5c5" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" letter-spacing="2">BRIGHT · 8–15</text>
+  <g font-family="DejaVu Sans, sans-serif">
+    <rect x="70" y="198" width="195" height="118" rx="14" fill="#000000" stroke="#536071" stroke-width="2"/><text x="88" y="347" fill="#f1f4f8" font-size="20" font-weight="700">0 · Black</text><text x="88" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#000000</text>
+    <rect x="280" y="198" width="195" height="118" rx="14" fill="#AA0000"/><text x="298" y="347" fill="#f1f4f8" font-size="20" font-weight="700">1 · Red</text><text x="298" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#AA0000</text>
+    <rect x="490" y="198" width="195" height="118" rx="14" fill="#00AA00"/><text x="508" y="347" fill="#f1f4f8" font-size="20" font-weight="700">2 · Green</text><text x="508" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#00AA00</text>
+    <rect x="700" y="198" width="195" height="118" rx="14" fill="#AAAA00"/><text x="718" y="347" fill="#f1f4f8" font-size="20" font-weight="700">3 · Yellow</text><text x="718" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#AAAA00</text>
+    <rect x="910" y="198" width="195" height="118" rx="14" fill="#0000AA"/><text x="928" y="347" fill="#f1f4f8" font-size="20" font-weight="700">4 · Blue</text><text x="928" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#0000AA</text>
+    <rect x="1120" y="198" width="195" height="118" rx="14" fill="#AA00AA"/><text x="1138" y="347" fill="#f1f4f8" font-size="20" font-weight="700">5 · Magenta</text><text x="1138" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#AA00AA</text>
+    <rect x="1330" y="198" width="195" height="118" rx="14" fill="#00AAAA"/><text x="1348" y="347" fill="#f1f4f8" font-size="20" font-weight="700">6 · Cyan</text><text x="1348" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#00AAAA</text>
+    <rect x="1540" y="198" width="195" height="118" rx="14" fill="#AAAAAA"/><text x="1558" y="347" fill="#f1f4f8" font-size="20" font-weight="700">7 · Light gray</text><text x="1558" y="375" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#AAAAAA</text>
+
+    <rect x="70" y="460" width="195" height="118" rx="14" fill="#555555"/><text x="88" y="609" fill="#f1f4f8" font-size="20" font-weight="700">8 · Dark gray</text><text x="88" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#555555</text>
+    <rect x="280" y="460" width="195" height="118" rx="14" fill="#FF5555"/><text x="298" y="609" fill="#f1f4f8" font-size="20" font-weight="700">9 · Bright red</text><text x="298" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#FF5555</text>
+    <rect x="490" y="460" width="195" height="118" rx="14" fill="#55FF55"/><text x="508" y="609" fill="#f1f4f8" font-size="20" font-weight="700">10 · Bright green</text><text x="508" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#55FF55</text>
+    <rect x="700" y="460" width="195" height="118" rx="14" fill="#FFFF55"/><text x="718" y="609" fill="#f1f4f8" font-size="20" font-weight="700">11 · Bright yellow</text><text x="718" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#FFFF55</text>
+    <rect x="910" y="460" width="195" height="118" rx="14" fill="#5555FF"/><text x="928" y="609" fill="#f1f4f8" font-size="20" font-weight="700">12 · Bright blue</text><text x="928" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#5555FF</text>
+    <rect x="1120" y="460" width="195" height="118" rx="14" fill="#FF55FF"/><text x="1138" y="609" fill="#f1f4f8" font-size="20" font-weight="700">13 · Bright magenta</text><text x="1138" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#FF55FF</text>
+    <rect x="1330" y="460" width="195" height="118" rx="14" fill="#55FFFF"/><text x="1348" y="609" fill="#f1f4f8" font-size="20" font-weight="700">14 · Bright cyan</text><text x="1348" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#55FFFF</text>
+    <rect x="1540" y="460" width="195" height="118" rx="14" fill="#FFFFFF"/><text x="1558" y="609" fill="#f1f4f8" font-size="20" font-weight="700">15 · White</text><text x="1558" y="637" fill="#aab5c5" font-family="DejaVu Sans Mono, monospace" font-size="18">#FFFFFF</text>
+  </g>
+</svg>
