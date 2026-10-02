@@ -42,9 +42,11 @@ All six wallpapers are **3840 × 2160**. Click any image to open the full-resolu
   <tr>
     <td align="center"><a href="backgrounds/3-ibm-stripes.jpg"><img src="backgrounds/3-ibm-stripes.jpg" alt="Eight blue horizontal stripes on black" width="100%"></a><br><b>Blue stripes</b></td>
     <td align="center"><a href="backgrounds/4-eye-bee-m-monochrome.jpg"><img src="backgrounds/4-eye-bee-m-monochrome.jpg" alt="Monochrome Eye-Bee-M rebus on black" width="100%"></a><br><b>Eye-Bee-M · monochrome</b></td>
-    <td align="center"><a href="backgrounds/5-eye-bee-m-color.jpg"><img src="backgrounds/5-eye-bee-m-color.jpg" alt="Original-color Eye-Bee-M rebus on black" width="100%"></a><br><b>Eye-Bee-M · original color</b></td>
+    <td align="center"><a href="backgrounds/5-eye-bee-m-color.png"><img src="backgrounds/5-eye-bee-m-color.png" alt="Original-color Eye-Bee-M rebus on black" width="100%"></a><br><b>Eye-Bee-M · original color</b></td>
   </tr>
 </table>
+
+The color Eye-Bee-M wallpaper is rendered directly from [editable vector artwork](artwork/eye-bee-m-color.svg) to a lossless RGB PNG. See [reproduction and fidelity notes](artwork/README.md).
 
 ## Artwork credits
 
