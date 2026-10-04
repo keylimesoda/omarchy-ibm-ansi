@@ -14,7 +14,7 @@ dark_foreground = "#555555"
 light_foreground = "#AAAAAA"
 bright_foreground = "#FFFFFF"
 
-hyprland_active_border = "rgba(00aaaaee) rgba(aa00aaee) 45deg"
+hyprland_active_border = "rgba(5555ffee)"
 hyprland_inactive_border = "rgba(555555aa)"
 
 red = "#AA0000"
